@@ -6,6 +6,7 @@ end
 def read_from_hash(hash, key)
  puts hash[:key]
   end
+  read_from_hasg(hash, key)
 
 def update_counting_hash(hash, key)
   # given a hash an a key as parameters, return an updated hash
